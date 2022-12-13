@@ -1,0 +1,5 @@
+Shashank	10	9.900000	CSE
+Sankar   	9	9.700000	EE
+Ritika   	7	7.900000	AIDS
+Neha     	10	8.900000	IT
+Rahul    	5	4.900000	AI
